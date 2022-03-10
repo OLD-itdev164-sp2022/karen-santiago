@@ -3,7 +3,7 @@ require ('dotenv').config({
 });
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
+    title: `Random Thought`,
     description: `ITDEV-164 Gatsby Blog`,
     author: `Karen Santiago`,
     contact: {
